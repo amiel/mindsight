@@ -1,0 +1,48 @@
+%
+%  mindsight
+%
+%  Created by Amiel Martin on 2010-01-29.
+%  Copyright (c) 2010 Amiel Martin. All rights reserved.
+%
+\documentclass[]{article}
+
+% Use utf-8 encoding for foreign characters
+\usepackage[utf8]{inputenc}
+
+% Setup for fullpage use
+\usepackage{fullpage}
+
+\usepackage{setspace} 
+\doublespacing
+
+% Uncomment some of the following if you use the features
+%
+% Running Headers and footers
+\usepackage{fancyhdr}
+
+% Package for including code in the document
+% \usepackage{listings}
+
+
+\title{On Daniel Siegel's Mindsight Seminar}
+\author{ Amiel Martin }
+
+\date{2010-01-29}
+
+\begin{document}
+	\maketitle
+	
+	When I saw Daniel Siegel, I learned why meditation is good for you from a neurobiological standpoint.
+	On Thursday February 28th, 2010, I had the opportunity to see Dr. Siegel speak in his seminar entitled ``Mindsight: Changing the Brain, Changing Relationships.''
+	For this reflection paper, I plan to attempt to re-articulate in my own words what he said, and try to put my own spin on it. This will be difficult to do this in an organized fashion, as the talk was very tangential. He was very clear that instead of presenting his book, he wanted to make the seminar more experiential, and answer as many questions as possible.
+	There were people there that were opposed to him answering so many questions, and would have preferred him to continue lecturing, but I think he did a good job of balancing the two. His lecturing was amazing and informative, but in order to learn the contents of his book, all one needs to do is read the book. However, a book cannot interactively answer questions.
+
+	As far as I could understand, this was the general outline for the seminar (excluding tangents and audience questions):
+	
+	\begin{itemize}
+		\item What is the Mind?
+	\end{itemize}
+
+
+	
+\end{document}
