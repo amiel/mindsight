@@ -32,14 +32,21 @@
 \begin{document}
 	\maketitle
 	
-	My one sentence take-away from seeing Daniel Siegel talk is that I learned why meditation is good for you from a neurobiological standpoint.
+	% define a healthy mind
+	% interpersonal neurobiology
+	
+	
+	
+	My one sentence take-away from seeing Daniel Siegel talk is this: I learned why meditation is good for you from a neurobiological standpoint.
 	On Thursday February 28th, 2010, I had the opportunity to see Dr. Siegel speak in his seminar entitled ``Mindsight: Changing the Brain, Changing Relationships.''
 	For this reflection paper, I plan to attempt to re-articulate in my own words what he said, and try to put my own spin on it. This will be difficult to do this in an organized fashion, as the talk was very tangential. He was very clear that instead of presenting his book, he wanted to make the seminar more experiential, and answer as many questions as possible.
 	There were people there that were opposed to him answering so many questions, and would have preferred him to continue lecturing, but I think he did a good job of balancing the two. His lecturing was amazing and informative, but in order to learn the contents of his book, all one needs to do is read the book. However, a book cannot interactively answer questions.
 
-	NOTE: anything in quotes that has not been cited is something that I found in my notes, and probably something that Daniel Siegel said.
+	I would just like to note that anything in quotes that has not been cited is something that I found in my notes, and probably something that Daniel Siegel said. Also I talked to Daniel during the lunch break, and at one point he recommended I watch his TEDx Blue talk on youtube,\footnote{http://www.youtube.com/watch?v=Nu7wEr8AnHw} so I have used that to help refresh my memory about a few things.
 
-	As far as I could understand, this was the general outline for the seminar (excluding tangents and audience questions):
+	As far as I could understand, this was the general outline for the seminar (excluding tangents and audience questions), although it may not be the best way to organize this information:
+	
+	\newpage % maybe
 	
 	\singlespace
 	\begin{itemize}
@@ -54,7 +61,7 @@
 		\item Integrations: ``differentiation and linkage''
 		\begin{enumerate}
 			\item Consciousness Integration
-			\item Vertial Integration
+			\item Vertical Integration
 			\item Bilateral Integration
 			\item Memory Integration
 			\item Narrative Integration
@@ -74,7 +81,9 @@
 	His mentors told him that in the medical world they ``deal only with the physical,'' meaning that they weren't willing to involve anything that is not quantifiable.
 	Medical school doesn't teach the mind, and by ditching subjectivity, science has ``lost its mind.''
 	He felt as though these people could not see the mind. In other words, they were blind to the fact that the mind is part of the body, not just the brain.
-	I drew the conclusion that ``mindsight'' is the ability to see that other people have minds.	
+	I drew the conclusion that ``mindsight'' is the ability to see that other people have minds, and to have insight to your own mind.	
+
+	% include daniel and ... oh shit I've lost it
 
 	As the science world is concerned only with the brain, the psychology world is more interested in the mind. And either might say that one can be reduced by the other. For example, a neuroscientist might say that the mind is just neural firings in the brain, and a psychotherapist might say that the brain is just where the mind lives.
 	Siegel's approach is that neither is reducible to the other.
@@ -82,7 +91,7 @@
 	In the same way, the subjective and the objective, are also primes. The mind (subjective) cannot be reduced to the brain (objective), and the brain cannot be reduced to the mind.
 	Another analogy that Siegel uses is a plane, as in the two dimensional concept. One side of this ``plane of reality'' is neural firing, and on the other is subjective experience.
 	
-	Daniel Siegel introduces another prime: Relationships. These three primes form what he calls ``The Triangle of well-being and resilience.''\footnote{From his TEDx Blue Talk: http://www.youtube.com/watch?v=Nu7wEr8AnHw} At the three corners of this triangle are Brain, Relationships, and Mind. For simplicity he calls the entire nervous system, ``the Brain''. Relationships are how we share information. And the Mind, we'll define later.
+	Daniel Siegel introduces another prime: Relationships. These three primes form what he calls ``The Triangle of well-being and resilience.''\footnote{From his TEDx Blue Talk: http://www.youtube.com/watch?v=Nu7wEr8AnHw} At the three corners of this triangle are Brain, Relationships, and Mind. For simplicity he calls the entire nervous system, ``the Brain'', which is the mechanism with which information flows. Relationships are how we share that information. And the Mind, we'll define later.
 	
 	I think that this helps set the stage for an important concept from the talk. ``The mind can change the brain, just as much as the brains activity can shape the mind.'' I think that we are starting to move on from the shocking awareness that the brain is so plastic, and we are starting to learn how to use that concept to, in Siegel's words, ``awaken the mind to pull your brain around.'' He gave some examples of this concept as practicing skills without actually doing them: studies have shown that basketball players can acquire skill by visualizing themselves practicing free-throws. We'll talk more about shaping the brain later.
 	
@@ -91,15 +100,42 @@
 	\subsection*{\normalsize{}What is the Mind?} % (fold)
 	\label{sub:what_is_the_mind_}
 	
-	So, then, if the mind is not the brain, then what is this mind, and how does it relate to the brain? Dr Siegel made it very clear that it has been hard to define ``the mind.'' The mind is undefinable. There has been hostility from the scientific world because they believe that in order to define the mind, you must measure it, and the mind is unmeasurable, therefore it is erroneous to define it. Philosophers won't define the mind because they believe that you cannot define it, by definition of what it is. % I could work in the definitian of the brain:
-	In this light, he gave us a definition. The mind is: ``an embodied relational process that regulates the flow of energy and information.'' Embodied because it is our body just as much as it is our brain. Relational because it is other people too. And process because it is a verb and not a noun. Regulation is to monitor and modify, this becomes an important concept for later. Flow, he said, is the movement of something through \emph{time}.
+	So, then, if the mind is not the brain, then what is this mind, and how does it relate to the brain? Dr Siegel made it very clear that it has been hard to define ``the mind.'' The mind is undefinable. There has been hostility from the scientific world because they believe that in order to define the mind, you must measure it, and the mind is unmeasurable, therefore it is erroneous to define it. Philosophers won't define the mind because they believe that you cannot define it, by definition of what it is.
+	
+	This disagreement fits with the analogy of different people studying the elephant. When each is asked what the elephant is, they each have a different answer. One says that it is flexible and can suck or spray water. Another says that it is thin a delicate, and swats flies. Another says that it is large and flat, and can fan lots of air. They might disagree, but if someone were to compile and combine all their definitions, they would find that they are all correct, but each missing part of it. Once more, they would also not have managed to define the entire elephant.
+	
+	In this light, he gave us a definition. He also said to be skeptical of it. The mind is: ``an embodied relational process that regulates the flow of energy and information.'' Embodied because it is our body just as much as it is our brain. Relational because it is other people too. And process because it is a verb and not a noun. Regulation is to monitor and modify, this becomes an important concept for later. Flow, he said, is the movement of something through \emph{time}.
 	
 	% subsection what_is_the_mind_ (end)
 	
 	\subsection*{\normalsize{}Wheel of Awareness} % (fold)
 	\label{sub:wheel_of_awareness}
 	
+	After a break Daniel asked us to try something with him, an experiential part of the day, an experience that he would explain in more detail later. Before he started the wheel of awareness exercise, we did a simple breath meditation. Something like this:
+	
+	\singlespace
+	\begin{quote}
+		Sit comfortably in your chair. Feet flat on the ground. Close your eyes if you like. Notice your breath... Place your awareness on how you feel it most prominently... Notice how it flows by your nostrils and nasal passage... Feel your chest rise and fall... Now breath deeper into your stomach and notice your diaphragm. etc, etc...
+	\end{quote}
+	\doublespace
+	
+	We also tried placing our attention in various places in the room. After this simple breath meditation, Dr. Siegel introduced us to the Wheel of Awareness. The concept is to imagine a bicycle wheel with an spokes connecting the rim to the hub. On the rim are things that might come into our awareness, and the hub is a space of tranquillity and safety. The rim can be divided into four sections:
+	
+	\singlespace
+	\begin{enumerate}
+		\item Outside. The 5 senses: touch, vision, hearing, taste, and smell.
+		\item Inside. Interoception, body senses, scientists call this the sixth sense. Feel your muscles, bones, and organs.
+		\item Mental Activities. Your thoughts, be aware of how the enter, their sensation, how they leave, and if you can, what it's like between thoughts. Daniel calls this the seventh sense.
+		\item Relational Sense. This is how we perceive our relationship with others and with the whole world. Daniel calls this the eighth sense.
+	\end{enumerate}
+	\doublespace
+	
+	This practice develops our ability to monitor and differentiate what comes into our awareness. A couple of notes that I have on this: monitoring the outside world happens in the back of the brain, whereas monitoring the inside (sixth sense), happens in the front of the brain. Siegel said that a person with more internal awareness will have more capacity for empathy.
+	
 	% subsection wheel_of_awareness (end)
 	
+	
+	
+	There are a few things in my notes that I wish I could remember more of. For example, I have an outlined quote stating that the ``sense of self is in the body and social relationships.'' And a little note by it: ``spindle cells.'' I recall that Daniel was talking about spindle cells and how they are related to mirror neurons, but I think at that point all the brain stuff was enough over my head that I didn't retain the specifics there. % \footnote{ link: http://en.wikipedia.org/wiki/Spindle_neuron }
 	
 \end{document}
