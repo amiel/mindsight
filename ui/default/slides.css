@@ -1,0 +1,26 @@
+@import url(s5-core.css); /* required to make the slide show run at all */
+@import url(framing.css); /* sets basic placement and size of slide components */
+@import url(pretty.css);  /* stuff that makes the slides look better than blah */
+
+
+#the_mind{ position: relative; width: 700px; margin: 2em auto; line-height: 4em; }
+    
+    .addon{ position: absolute; top: -1em; line-height: 1em; font-size: 75%; }
+    .incremental.addon{ display: none; }
+    
+    #embodied{ left: 7em; width: 6em;}
+        #embodied .arrow{ margin-left: 4em; }
+    
+    #relational{ left: 16em; width: 5em; }
+        #relational .arrow{ margin-left: 2em; }
+        
+    #process{ left: 22em; width: 4em; }
+        #process .arrow{ margin-left: 1em; }
+        
+    #regulates, #flow{ top: 4em; }
+    
+    #regulates{ left: 2em; width: 6em; }
+        #regulates .arrow{ margin-left: 1.5em; }
+    
+    #flow{ left: 9em; width: 10em; }
+        #flow .arrow{ margin-left: 0.7em; }
