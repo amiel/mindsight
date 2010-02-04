@@ -26,16 +26,14 @@
 \def\citetedxblue{From his TEDx Blue Talk. see 1} % 1 being the first footnote that does reference the TEDxBlue talk
 
 
-\title{On Daniel Siegel's Mindsight Seminar}
+\title{ On Daniel Siegel's Mindsight Seminar \\
+	\large or, me trying to remember what he said }
 \author{ Amiel Martin }
 
 \date{2010-01-29}
 
 \begin{document}
 	\maketitle
-	
-	% define a healthy mind
-	% interpersonal neurobiology
 	
 	
 	My one sentence take-away from seeing Daniel Siegel talk is this: I learned why meditation is good for you from a neurobiological standpoint.
@@ -92,11 +90,11 @@
 	Just as primes are numbers that cannot be broken down to another number. For example, 3 and 5 are prime, but 4 and 9 are not, because 4 can be broken down to two twos, and 9 can be broken down to three threes.
 	In the same way, the subjective and the objective, are also primes. The mind (subjective) cannot be reduced to the brain (objective), and the brain cannot be reduced to the mind.
 	Another analogy that Siegel uses is a plane, as in the two dimensional concept. One side of this ``plane of reality'' is neural firing, and on the other is subjective experience.
+	He started the field ``interpersonal neurobiology'' to study these things.
 	
-	Daniel Siegel introduces another prime: Relationships. These three primes form what he calls ``The Triangle of well-being and resilience.''\footnote{\citetedxblue} At the three corners of this triangle are Brain, Relationships, and Mind. For simplicity he calls the entire nervous system, ``the Brain'', which is the mechanism with which information flows. Relationships are how we share that information. And the Mind, we'll define later.
+	That brings me to Daniel Siegel's third prime: Relationships. These three primes form what he calls ``The Triangle of well-being and resilience.''\footnote{\citetedxblue} At the three corners of this triangle are Brain, Relationships, and Mind. For simplicity he calls the entire nervous system, ``the Brain'', which is the mechanism with which information flows. Relationships are how we share that information. And the Mind, we'll define later.
 	
 	I think that this helps set the stage for an important concept from the talk. ``The mind can change the brain, just as much as the brains activity can shape the mind.'' This is in agreement with the idea that neither can be reduced to the other. I think that we are starting to move on from the shocking awareness that the brain is so plastic, and we are starting to learn how to use that concept to, in Siegel's words, ``awaken the mind to pull your brain around.'' He gave some examples of this concept as practicing skills without actually doing them: studies have shown that basketball players can acquire skill by visualizing themselves practicing free-throws. We'll talk more about shaping the brain later.
-	
 	% subsection introduction (end)
 	
 	\subsection*{\normalsize{}What is the Mind?} % (fold)
@@ -107,7 +105,6 @@
 	This disagreement fits with the analogy of different people studying the elephant. When each is asked what the elephant is, they each have a different answer. One says that it is flexible and can suck or spray water. Another says that it is thin a delicate, and swats flies. Another says that it is large and flat, and can fan lots of air. They might disagree, but if someone were to compile and combine all their definitions, they would find that they are all correct, but each missing part of it. Once more, they would also not have managed to define the entire elephant.
 	
 	In this light, he gave us a definition. He also said to be skeptical of it. The mind is: ``an embodied relational process that regulates the flow of energy and information.'' Embodied because it is our body just as much as it is our brain. Relational because it involves other people too. And process because it is a verb and not a noun. Regulation is to monitor and modify, this becomes an important concept for later. Flow, he said, is the movement of something through \emph{time}.
-	
 	% subsection what_is_the_mind_ (end)
 	
 	\subsection*{\normalsize{}Wheel of Awareness} % (fold)
@@ -133,20 +130,24 @@
 	\doublespace
 	
 	This practice develops our ability to monitor and differentiate what comes into our awareness. A couple of notes that I have on this: monitoring the outside world happens in the back of the brain, whereas monitoring the inside (sixth sense), happens in the front of the brain. Siegel said that a person with more internal awareness will have more capacity for empathy. It is also interesting to note that according to Siegel, patients with ADD improved more with meditation than they did medication. The wheel of awareness, I think, is ``mindsight.''
-	
 	% subsection wheel_of_awareness (end)
 	
 	
 	\subsection*{\normalsize{}Functions of the Middle Prefrontal Cortex} % (fold)
 	\label{sub:functions_of_the_middle_prefrontal_cortex}
 	
-	
 	Dr. Siegel spent a fair amount of time explaining specifically parts of the middle prefrontal cortex and how they relate to other parts of the brain as well as the body.
 	This was all very interesting to be, but I'm not sure that I understood it fully.
 	For example, I have an outlined quote stating that the ``sense of self is in the body and social relationships.'' And a little note by it: ``spindle cells.''
 	I recall that Daniel was talking about spindle cells and how they are related to mirror neurons, but I think at that point all the brain stuff was enough over my head that I didn't retain the specifics there.
 	
-	One thing that was very clear, however, is that the ``brain is the social organ of the body,''\footnote{\citetedxblue} and that the middle prefrontal cortex is integral to our ability to be social. Anyway, these are the functions of the middle prefrontal cortex:
+	One thing that was very clear, however, is that the ``brain is the social organ of the body,''\footnote{\citetedxblue} and that the middle prefrontal cortex is integral to our ability to be social.
+	Daniel shows a model of the brain with his hand by wrapping his thumb against the palm of his hand and then wrapping his four fingers over the top of his thumb.
+	This brain-fist is also American Sign Language for the letter ``S.''
+	Within this model, he says, the palm is your brain stem, the fingers make up your cerebral cortex, and the thumb represents your limbic system.
+	More specifically, the fingernails of the middle and ring fingers represent your middle prefrontal cortex.
+	One of my favorite things about this representation is Daniel's visual analogy of ``flipping your lid,'' where he takes his brain-fist and rapidly opens his four fingers representing the loss of the middle prefrontal cortex functions.
+	Anyway, these are the functions of the middle prefrontal cortex:
 	
 	\singlespace
 	\begin{enumerate}
@@ -177,20 +178,49 @@
 	
 	I think that it is really important to notice when ``principles from independent ways of knowing'' are so congruous. A friend of mine once told me to pay attention to synchronicity, and I think this falls under that category.
 	This brings me to the confirmation of my opening take-away.
-	One of Siegel's major points is that these functions of the middle prefrontal cortex are all promoted by empathic relationships and reflective skill training (like the wheel of awareness).
-	
+	One of Siegel's major points is that these functions of the middle prefrontal cortex are all promoted by empathic relationships and reflective skill training (like the wheel of awareness). His little rhyme ``personal transformation has to precede planetary conservation'' really struck me, and I think he really believes that this is what needs to be done to make the world a better place.
 	% subsection functions_of_the_middle_prefrontal_cortex (end)
 	
 	
-	``Compassion and kindness are the root to a healthy brain/mind''
-		
-	``Personal transformation has to precede planetary conservation''
+	\subsection*{Integrations} % (fold)
+	\label{sub:integrations}
 	
-	Neural Integration is ``the heart of health in the body, mind, and the entire planet.''\footnote{\citetedxblue}
+	I've written this much so far, and I'm not yet through half of my notes. Just like Daniel Siegel did in his seminar, I'm going to rush through the last section, while providing amble related distractions.
+	The main purpose of these integrations is to give practical knowledge to the psychotherapist practitioner.
+	Sometimes I found this section on Integration hard to follow. Partially, I think, because it was so directed for practitioners, but also because it was rushed and side-tracked so often so that he could answer questions.
+	In any case, he taught us different ways to integrate different parts of the brain, and the most important concept is that in order to have integration, you must have differentiation and linkage, but differentiation must happen before linkage.
 	
+	In the seminar, he gave a great experiential example of how differentiation and linkage (integration) combine to create harmony.
+	An ad-hoc choir was assembled of folks at the seminar with previous choral experience.
+	They were first asked to hum a note together. This was an example of linkage without differentiation (rigidity).
+	They were then asked to plug their ears and sing their own song. This was an example of differentiation without linkage (chaos).
+	Harmony was exemplified when they sang a round together, a beautiful example of differentiation and linkage working together (harmony).
 	
-	I may have oversimplified things, and would like to learn ....
-	I really look forward to reading the next Siegel reading as well as many others.
+	Through each description of each integration I learned all sorts of things about the brain.
+	For example, when he was presenting vertical integration, which incorporates the brain with the rest of the nervous system, Siegel mentioned that the brain registers social rejection in the same way that it does physical pain.
+	A example that was really interesting to me was when he repeated (with intention), the word ``no'', and after a pause, repeated (with intention), the word ``yes.''
+	This was to demonstrate how the body reacts to negative intentions with activation of the limbic ``fight, flight or freeze'' system, and is receptive and open to positive intentions.
+	It was particularly interesting to me because it is synchronous to my girlfriends studies in clicker training, which uses positive reinforcement to shape behaviors in animals.
+	
+	When presenting bilateral integration, Dr. Siegel told a powerful story about teaching a 92 year old man who clearly had the avoidant attachment style.
+	This man could not understand the question ``how do you feel?'' And although he had excellent access to the factual memories in the left hemisphere of his brain, he had almost no access to the autobiographical memories in the right hemisphere of his brain.
+	Over the course of 5 months he was able to integrate his right brain in a way that allowed him to encode autobiographical memories and have empathy.
+	As part of this story, Dr. Siegel taught us the different ways that the brain changes: synaptogenesis, neurogenesis, myelinogenesis, and epigenesis.
+	I think I know where a lot of my myelin sheaths reside; I think that my juggling neurons are heavily myelinated.
+	Dr. Siegel provides an acronym for inspiring neurogenesis: SNAG (Stimulate Neuronal Activation and Growth), and he argues that attention is the the tool that you can use to SNAG the brain ``directing the flow of energy and information''.
+	
+	The integration that most directly relates to what we've been talking about in class is narrative integration.
+	He basically described the narrative styles that come from different attachment styles, and explained that the most coherent narrative (securely attached) comes from neural integration.
+	This re-enforces for me how important attachment theory is (and specifically secure attachment): Neural Integration is ``the heart of health in the body, mind, and the entire planet.''\footnote{\citetedxblue}
+	
+	% subsection integrations (end)
+	
+	\bigskip
+	
+	Going to see Daniel Siegel last week was definitely a life changing experience for me.
+	I am now more interested in internal reflection, but more important to me, I understand what it is for and why it is important.
+	In the writing of this paper I may have oversimplified things, but hopefully I am not too far off track.
+	I really look forward to learning more of what Daniel Siegel has to say in the next and other readings for this class.
 	
 
 
