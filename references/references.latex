@@ -1,0 +1,34 @@
+%
+%  references for my 10 minute presentation
+%
+%  Created by Amiel Martin on 2010-02-07.
+%  Copyright (c) 2010 Amiel Martin. All rights reserved.
+%
+\documentclass[]{article}
+
+% Use utf-8 encoding for foreign characters
+\usepackage[utf8]{inputenc}
+
+% Setup for fullpage use
+\usepackage{fullpage}
+
+% Uncomment some of the following if you use the features
+%
+% Running Headers and footers
+\usepackage{fancyhdr}
+
+% Package for including code in the document
+% \usepackage{listings}
+
+
+\title{Refenences}
+\author{}
+
+\date{}
+
+\begin{document}
+	\maketitle
+
+
+	foo de bar de bar
+\end{document}

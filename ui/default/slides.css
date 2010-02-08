@@ -2,8 +2,9 @@
 @import url(framing.css); /* sets basic placement and size of slide components */
 @import url(pretty.css);  /* stuff that makes the slides look better than blah */
 
+.slidecontent{ width: 800px; margin: 2em auto; }
 
-#the_mind{ position: relative; width: 700px; margin: 2em auto; line-height: 4em; }
+#the_mind{ position: relative; width: 700px; margin: 2em auto; line-height: 4em; font-size: 32px; }
     
     .addon{ position: absolute; top: -1em; line-height: 1em; font-size: 75%; }
     .incremental.addon{ display: none; }
@@ -24,3 +25,8 @@
     
     #flow{ left: 9em; width: 10em; }
         #flow .arrow{ margin-left: 0.7em; }
+        
+#mpc_functions{}
+    #mpc_functions li{ line-height: 1.2em; width: 350px; }
+        #mpc_functions li.mpc_function_5{ margin-top: -7em; }
+        .mpc_function_5, .mpc_function_6, .mpc_function_7, .mpc_function_8, .mpc_function_9{ margin-left: 400px; }
