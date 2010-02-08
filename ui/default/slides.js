@@ -19,6 +19,7 @@ var isGe = navigator.userAgent.indexOf('Gecko') > -1 && navigator.userAgent.inde
 
 function hasClass(object, className) {
 	if (!object.className) return false;
+	if (! object.className.search) return false;
 	return (object.className.search('(^|\\s)' + className + '(\\s|$)') != -1);
 }
 
