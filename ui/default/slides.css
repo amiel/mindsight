@@ -32,5 +32,12 @@
     .two-col li.next-col{ margin-top: -7em; }
     li.second-col{ margin-left: 460px; }
 
+
+#fmpc li{ font-size: 32px; }
 #integrations li{ font-size: 30px; }
     #integrations #consiousness_integration{ font-size: 28px; }
+    
+#references{ margin-top: 0; font-size: 30px; }
+    #references h2{ font-weight: bold; }
+    #references p{ margin: 0.5em 2em; }
+    #references li{ margin: 0.5em 0; }
