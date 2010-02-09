@@ -146,7 +146,7 @@
 	//<![CDATA[
 	
 		var triangle_path = (function() {
-			function point_to_string(p) {
+			function c(p) {
 				return p.x + ',' + p.y;
 			}
 			
@@ -156,7 +156,7 @@
 			p.second_point = { x: p.first_point.x + p.line_length, y: p.first_point.y };
 			p.third_point = { x: p.first_point.x + p.line_length / 2, y: p.first_point.y + (p.line_length / 2) * Math.sqrt(3) }
 	
-			return "M" + point_to_string(p.first_point) + "L" + point_to_string(p.second_point) + "L" + point_to_string(p.third_point) + "L" + point_to_string(p.first_point);
+			return "M" + c(p.first_point) + "L" + c(p.second_point) + "L" + c(p.third_point) + "L" + c(p.first_point);
 		})();
 		
 		function draw_text(r, x,y,text) {
