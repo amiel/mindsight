@@ -1,0 +1,67 @@
+%
+%  mindsight
+%
+%  Created by Amiel Martin on 2010-01-18.
+%  Copyright (c) 2010 Amiel Martin. All rights reserved.
+%
+\documentclass[]{article}
+
+% Use utf-8 encoding for foreign characters
+\usepackage[utf8]{inputenc}
+
+% Setup for fullpage use
+\usepackage{fullpage}
+
+\usepackage{setspace} 
+\doublespacing
+
+% Uncomment some of the following if you use the features
+%
+% Running Headers and footers
+\usepackage{fancyhdr}
+
+% Package for including code in the document
+% \usepackage{listings}
+
+
+
+\title{ On Attachment \\
+	\large some ramblings on Attachment Theory }
+\author{ Amiel Martin }
+
+\date{2010-02-18}
+
+\begin{document}
+	\maketitle
+	
+	\subsection*{Attachment Theory Overview} % (fold)
+	\label{sub:attachment_overview}
+	
+	Attachment
+		
+	% subsection attachment_overview (end)
+	
+	
+	Attachment Styles
+	
+	\begin{itemize}
+		\item Secure
+		\item Avoidant
+		\item Resistant or Ambivalent
+		\item Disorganized
+	\end{itemize}
+
+
+
+	\subsection*{Some Interesting Stuff} % (fold)
+	\label{sub:some_interesting_stuff}
+	
+	% subsection some_interesting_stuff (end)
+
+	\subsection*{Some Thoughts} % (fold)
+	\label{sub:some_thoughts}
+	
+	% subsection some_thoughts (end)
+
+
+\end{document}
