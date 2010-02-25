@@ -24,7 +24,6 @@
 % \usepackage{listings}
 
 
-
 \title{ On Attachment \\
 	\large some ramblings on Attachment Theory }
 \author{ Amiel Martin }
@@ -60,8 +59,7 @@
 	Securely attached children tend to grow to be self-reliant, trusting, cooperative, and helpful to others.
 	Most importantly, securely attached children feel that they are able to help other people and that they themselves are worthy of help should difficulties arise.
 	Bowlby explains that secure attachment is raised when the parents have an understanding of the child's attachment behaviors and a willingness to meet them, as well as ``recognition that one of the commonest sources of a child's anger is the frustration of his desire for love and care.''
-	insecure attachment...
-	
+	Bowlby writes about two opposite patterns of attachment: anxious and compulsive self-reliance. I'll come back to these.
 	
 	 Around this same time Harry Harlow was working on his famous surrogate mother experiment\footnote{ Some footage of Harry Harlow's experiments can be found on youtube: http://www.youtube.com/watch?v=fLrBrk9DXVk }.
 	With extreme brevity: Harlow removed baby rhesus monkeys from their mothers and instead offered various combinations of terrycloth and wire ``mothers.'' \footnote{ An overview of the study with links to more resources can be found on wikipedia at http://en.wikipedia.org/wiki/Harry\_Harlow\#Surrogate\_mother\_experiment }
@@ -70,11 +68,45 @@
 	Monkeys that were raised with only a wire mother were not able to be comforted enough to explore.
 	
 	Another important study in the development of attachment theory was the ``Strange Situation,'' developed by Mary Ainsworth.
-	In the ``Strange Situation,'' children******verify?***** were brought into a room with their parent and a stranger.
+	In the ``Strange Situation,'' infants and toddlers were brought into a room with their parent and a stranger.
 	Observations were made on how the child acted when the parent left with or without the stranger, and how the child acted when they returned. 
-	Because research is research, and even though you can't put people in boxes, you still have to define categories, they defined four types of attachment: 
-	
+	Because research is research, and even though you can't put people in boxes, you still have to define categories, they defined four types of attachment: Secure, Avoidant, Resistant or Ambivalent, and Disorganized.
+	There is certainly a lack of standardization of terms in the field of attachment theory; what Ainsworth calls Avoidant is what Bowlby calls compulsive self-reliance, and Resistant or Ambivalent is what Bowlby calls Anxious.
 
+	Wikipedia has a good overview of each category:
+
+	\begin{table}
+		\begin{tabular}{ | p{1in} | p{3.5in} | p{1.5in} | }
+			\hline
+			\textbf{Attachment pattern} & \textbf{Child} & \textbf{Caregiver} \\
+			\hline
+			\textbf{Secure} & Uses caregiver as a secure base for exploration. Protests caregiver's departure and seeks proximity and is comforted on return, returning to exploration. May be comforted by the stranger but shows clear preference for the caregiver. & Responds appropriately, promptly and consistently to needs. \\
+			\hline
+			\textbf{Avoidant} & Little affective sharing in play. Little or no distress on departure, little or no visible response to return, ignoring or turning away with no effort to maintain contact if picked up. Treats the stranger similarly to the caregiver. & Little or no response to distressed child. Discourages crying and encourages independence. \\
+			\hline
+			\textbf{Ambivalent / Resistant} & Unable to use caregiver as a secure base, seeking proximity before separation occurs. Distressed on separation with ambivalence, anger, reluctance to warm to caregiver and return to play on return. Preoccupied with caregiver's availability, seeking contact but resisting angrily when it is achieved. Not easily calmed by stranger. & Inconsistent between appropriate and neglectful responses. \\
+			\hline
+			\textbf{Disorganised} & Stereotypies on return such as freezing or rocking. Lack of coherent attachment strategy shown by contradictory, disoriented behaviours such as approaching but with the back turned. & Frightened or frightening behaviour, intrusiveness, withdrawal, negativity, role confusion, affective communication errors and maltreatment. \\
+			\hline
+		\end{tabular}
+		\caption{ Quoted from Wikipedia: \small{http://en.wikipedia.org/wiki/Attachment\_theory\#Attachment\_patterns} }
+	\end{table}
+	
+	
+	In studies on attachment in other cultures, ___ in ___ noticed that mothers gave physical care to children and other young-uns gave 
+	
+	% AAI
+	% cross culteral thing
+	
+	% 	
+	% \begin{itemize}
+	% 	\item Secure
+	% 	\item Avoidant
+	% 	\item Resistant or Ambivalent
+	% 	\item Disorganized
+	% \end{itemize}
+	% 
+	% 
 
 
 	% what works in a speech
@@ -94,39 +126,6 @@
 
 
 
-	\subsection*{Attachment Theory Overview} % (fold)
-	\label{sub:attachment_overview}
-	
-	* Bowlby / initial concept
-	* harlow
-	* strange situation
-	* AAI?
-	* adults?
-	* cross culture study about 
-		
-	% subsection attachment_overview (end)
-	
-	
-	Attachment Styles
-	
-	\begin{itemize}
-		\item Secure
-		\item Avoidant
-		\item Resistant or Ambivalent
-		\item Disorganized
-	\end{itemize}
-
-
-
-	\subsection*{Some Interesting Stuff} % (fold)
-	\label{sub:some_interesting_stuff}
-	
-	% subsection some_interesting_stuff (end)
-
-	\subsection*{Some Thoughts} % (fold)
-	\label{sub:some_thoughts}
-	
-	% subsection some_thoughts (end)
 
 
 \end{document}
