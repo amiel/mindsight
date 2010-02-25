@@ -73,10 +73,13 @@
 	Because research is research, and even though you can't put people in boxes, you still have to define categories, they defined four types of attachment: Secure, Avoidant, Resistant or Ambivalent, and Disorganized.
 	There is certainly a lack of standardization of terms in the field of attachment theory; what Ainsworth calls Avoidant is what Bowlby calls compulsive self-reliance, and Resistant or Ambivalent is what Bowlby calls Anxious.
 
-	Wikipedia has a good overview of each category:
+	Wikipedia has a good overview of each category: (see Table~\ref{table:attachment_styles}\footnote{Quoted from Wikipedia: \small{http://en.wikipedia.org/wiki/Attachment\_theory\#Attachment\_patterns}})
 
 	\begin{table}
-		\begin{tabular}{ | p{1in} | p{3.5in} | p{1.5in} | }
+		\caption{ Attachment Styles }
+		\label{table:attachment_styles}
+		
+		\begin{tabular}{ | p{1in} | p{3.3in} | p{1.7in} | }
 			\hline
 			\textbf{Attachment pattern} & \textbf{Child} & \textbf{Caregiver} \\
 			\hline
@@ -89,7 +92,6 @@
 			\textbf{Disorganised} & Stereotypies on return such as freezing or rocking. Lack of coherent attachment strategy shown by contradictory, disoriented behaviours such as approaching but with the back turned. & Frightened or frightening behaviour, intrusiveness, withdrawal, negativity, role confusion, affective communication errors and maltreatment. \\
 			\hline
 		\end{tabular}
-		\caption{ Quoted from Wikipedia: \small{http://en.wikipedia.org/wiki/Attachment\_theory\#Attachment\_patterns} }
 	\end{table}
 	
 	
