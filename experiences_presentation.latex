@@ -1,0 +1,46 @@
+
+%
+%  untitled
+%
+%  Created by Amiel Martin on 2010-03-11.
+%  Copyright (c) 2010 __MyCompanyName__. All rights reserved.
+%
+\documentclass[]{article}
+
+% Use utf-8 encoding for foreign characters
+\usepackage[utf8]{inputenc}
+
+% Setup for fullpage use
+\usepackage{fullpage}
+
+% Uncomment some of the following if you use the features
+%
+% Running Headers and footers
+\usepackage{fancyhdr}
+
+% Package for including code in the document
+% \usepackage{listings}
+
+
+\title{Experiences for Mindsight Presentation}
+\author{ Amiel Martin }
+
+\date{2010-03-11}
+
+\begin{document}
+	\maketitle
+	
+	\begin{enumerate}
+		\item Introduce the presentation
+			
+			``I'm working on this workshop, and because of the time constraint, I'd like to just show you the experiential parts...''
+			
+		\item Science is teaching us what we already know
+	\end{enumerate}
+
+\end{document}
+
+
+Brain Plasticity
+	juggling
+	visualization

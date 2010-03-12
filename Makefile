@@ -4,7 +4,7 @@ PDFLATEX_FLAGS=-output-directory tmp
 
 .PHONY: all clean
 
-all: attachment mindsight_seminar
+all: attachment mindsight_seminar experiences_presentation
 
 tmp:
 	mkdir $@
@@ -14,6 +14,10 @@ attachment: tmp
 	mv tmp/$@.pdf .
 
 mindsight_seminar: tmp
+	$(PDFLATEX) $(PDFLATEX_FLAGS) $@.latex
+	mv tmp/$@.pdf .
+	
+experiences_presentation: tmp
 	$(PDFLATEX) $(PDFLATEX_FLAGS) $@.latex
 	mv tmp/$@.pdf .
 
